@@ -1,0 +1,38 @@
+.hover-float:hove{
+    transform: translateY(-10px); /* Mueve la tarjeta hacia arriba al hacer hover */
+    transition: transform 0.3s ease-in-out;
+}
+
+.hover-float:hover {
+    transform: translateY(-10px); /* Movimiento hacia arriba en hover */
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3); /* Sombra más fuerte al hacer hover */
+  }
+
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-30px);
+    }
+    60% {
+      transform: translateY(-15px);
+    }
+  }
+  
+  .box {
+    animation: bounce 2s infinite;
+  }
+
+  .navbar-item {
+    padding: 10px;
+    color: #333;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: inline-block;
+  }
+  
+  .navbar-item:hover {
+    transform: scale(1.1); /* Escala el tamaño al pasar el mouse */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
+    color: #d35a3b; /* Cambio de color del texto */
+  }
