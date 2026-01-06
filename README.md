@@ -17,6 +17,20 @@ The system simulates an online food ordering platform, allowing users to browse 
 
 ---
 
+## 🧱 Project Structure
+The project follows a clear separation between frontend and backend:
+
+```text
+project-root
+│
+├── frontend
+│   └── React application (UI, components, state management)
+│
+└── backend
+    └── PHP scripts (database connection, business logic, API endpoints)
+```
+---
+
 ## ✨ Main Features
 
 ### 🍕 Product Catalog
@@ -50,19 +64,6 @@ The system simulates an online food ordering platform, allowing users to browse 
 - Session-based access to protected features
 
 ---
-
-## 🧱 Project Structure
-The project follows a clear separation between frontend and backend:
-
-```text
-project-root
-│
-├── frontend
-│   └── React application (UI, components, state management)
-│
-└── backend
-    └── PHP scripts (database connection, business logic, API endpoints)
-```
 
 ## 🎯 Purpose of the Project
 This project was developed to:
