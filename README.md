@@ -64,7 +64,7 @@ project-root
     └── PHP scripts (database connection, business logic, API endpoints)
 ```
 
-### 🎯 Purpose of the Project
+## 🎯 Purpose of the Project
 This project was developed to:
 
 - Apply full-stack web development concepts
