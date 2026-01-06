@@ -75,7 +75,7 @@ This project was developed to:
 
 - Practice database interaction using MySQL
 
-🚀 Future Improvements
+### 🚀 Future Improvements
 
 - Payment gateway integration
 
@@ -88,7 +88,7 @@ This project was developed to:
 - REST API standardization
 
 ## 👨‍💻 Author
-**Moisés Castro**  
+**Moisés Castro Madrigal**  
 Software Development Engineering Student  
 Passionate about building scalable and well-structured web systems
 
