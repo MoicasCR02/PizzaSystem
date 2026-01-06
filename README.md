@@ -87,7 +87,9 @@ This project was developed to:
 
 - REST API standardization
 
-👨‍💻 Author
-Moisés Castro
-Software Development Engineering Student
-Focused on full-stack web development using modern technologies
+## 👨‍💻 Author
+**Moisés Castro**  
+Software Development Engineering Student  
+Passionate about building scalable and well-structured web systems
+
+---
