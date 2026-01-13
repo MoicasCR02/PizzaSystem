@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 
-AppPizzita/config.php 
+config.php 
 #ignorar
 
 
